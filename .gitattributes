@@ -1,2 +1,2 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Normaliza texto y usa LF (el formato con el que guarda RPG Maker MV)
+* text=auto eol=lf

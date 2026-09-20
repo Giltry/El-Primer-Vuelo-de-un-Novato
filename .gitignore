@@ -1,0 +1,10 @@
+# Partidas de prueba locales
+save/
+
+# Respaldos comprimidos
+*.rar
+*.zip
+
+# Archivos del sistema
+Thumbs.db
+desktop.ini
